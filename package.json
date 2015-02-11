@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nikku/karma-browserify.git"
+    "url": "http://github.com/neosavvyinc/karma-browserify.git"
   },
   "bugs": "https://github.com/nikku/karma-browserify/issues",
   "dependencies": {
